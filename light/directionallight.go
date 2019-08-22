@@ -3,7 +3,7 @@ package light
 import (
     "image/color"
 
-    "github.com/jzantinge/raytrace/core"
+    "github.com/janzantinge/raytrace/core"
 )
 
 type DirectionalLight struct {

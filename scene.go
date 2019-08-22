@@ -4,9 +4,9 @@ import (
     "math"
     "image/color"
 
-    "github.com/jzantinge/raytrace/core"
-    "github.com/jzantinge/raytrace/object"
-    "github.com/jzantinge/raytrace/light"
+    "github.com/janzantinge/raytrace/core"
+    "github.com/janzantinge/raytrace/object"
+    "github.com/janzantinge/raytrace/light"
 )
 
 type Scene struct {

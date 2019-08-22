@@ -4,7 +4,7 @@ import (
     "math"
     "image/color"
 
-    "github.com/jzantinge/raytrace/core"
+    "github.com/janzantinge/raytrace/core"
 )
 
 type PointLight struct {

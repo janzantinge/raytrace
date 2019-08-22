@@ -6,8 +6,8 @@ import (
     "image"
     "image/color"
 
-    "github.com/jzantinge/raytrace/core"
-    "github.com/jzantinge/raytrace/view"
+    "github.com/janzantinge/raytrace/core"
+    "github.com/janzantinge/raytrace/view"
 )
 
 type RayTracer struct {

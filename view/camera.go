@@ -1,6 +1,6 @@
 package view
 
-import "github.com/jzantinge/raytrace/core"
+import "github.com/janzantinge/raytrace/core"
 
 type Resolution struct {
     x, y uint32

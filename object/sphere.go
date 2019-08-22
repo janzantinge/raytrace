@@ -3,7 +3,7 @@ package object
 import (
     "math"
 
-    "github.com/jzantinge/raytrace/core"
+    "github.com/janzantinge/raytrace/core"
 )
 
 const CIRCLE_PERIMITER_LENGTH_FACTOR = 1.0 / (2.0 * math.Pi)

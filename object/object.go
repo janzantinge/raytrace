@@ -1,6 +1,6 @@
 package object
 
-import "github.com/jzantinge/raytrace/core"
+import "github.com/janzantinge/raytrace/core"
 
 type Object interface {
     Material() *core.Material

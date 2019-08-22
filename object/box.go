@@ -3,7 +3,7 @@ package object
 import (
     "math"
 
-    "github.com/jzantinge/raytrace/core"
+    "github.com/janzantinge/raytrace/core"
 )
 
 const EPSILON = 0.0000001
